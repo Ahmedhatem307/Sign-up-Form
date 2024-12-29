@@ -54,6 +54,13 @@ body{
     justify-content: center;
 }
 
+.copy-right{
+    position: relative;
+    top: 80vh;
+    left: 37%;
+    font-family: sans-serif;
+}
+
 .second-half{
     display: flex;
     flex-direction: column;
